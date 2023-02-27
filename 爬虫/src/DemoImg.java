@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 //爬网站的图片
-public class DemoImg {
+public class DemoImg {//朱方方是个大傻逼
 
     public static void main(String[] args) throws IOException {
         URL u = new URL("http://www.hbpu.edu.cn/");
